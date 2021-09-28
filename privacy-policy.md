@@ -16,7 +16,8 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-### Location Information  
+### Location Information
+Money Mart app currently giving services in only Karachi, Pakistan. When you use the Services, we collect location data to identify the device is present in Karachi, Pakistan.
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
